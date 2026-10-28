@@ -31,3 +31,5 @@ Dati simulati e non reali, un solo fattore comune, pesi uguali, giorni indipende
 
 ## Come eseguirlo
 `pip install -r requirements.txt`, poi eseguire il notebook dall'alto (seed fissati: i risultati sono riproducibili).
+[![Open in Colab][
+](https://colab.research.google.com/drive/1YMy0qR3EvlPLx4jUQxA3dlZIQnurUtZX?usp=sharing)
